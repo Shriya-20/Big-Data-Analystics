@@ -1,0 +1,5 @@
+CSE101 Data Structures 3
+CSE102 Algorithms 4
+CSE103 Operating Systems 5
+CSE104 Databases 3
+
